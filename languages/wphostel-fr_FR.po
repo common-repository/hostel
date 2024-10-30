@@ -1,0 +1,1177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-08 07:18+0000\n"
+"PO-Revision-Date: 2018-03-08 09:43+0000\n"
+"Last-Translator: pascal <pascal@pixeligo.fr>\n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: views/partial/rooms-table.html.php:17
+#, php-format
+msgid "%d beds"
+msgstr "%d lits"
+
+#: views/bookings.html.php:31
+#, php-format
+msgid "%d beds in %s"
+msgstr "%d lits dans %s"
+
+#: views/options.php:69 views/options.php:79
+msgid "(Date/time when reservation is made)"
+msgstr "(Date / heure de la réservation)"
+
+#: views/options.php:69
+msgid "(The URL to see the booking details in admin)"
+msgstr "(L'URL pour voir les détails de la réservation dans l'admin)"
+
+#: views/options.php:24
+msgid ""
+"- In this mode your site will only show the information for the rooms and "
+"will not let the visitors book rooms"
+msgstr ""
+"- Dans ce mode, votre site affichera uniquement les informations pour les "
+"chambres et ne laissera pas les visiteurs réserver des chambres"
+
+#: views/options.php:27
+msgid ""
+"- In this mode your visitors will be able to book and get their bookings "
+"activated instantly by paying by Paypal"
+msgstr ""
+"- Dans ce mode, vos visiteurs pourront réserver et activer leurs "
+"réservations instantanément en payant par Paypal"
+
+#: views/options.php:26
+msgid ""
+"- In this mode your visitors will be able to request booking by clicking on "
+"button and filling their information in the booking form. You as admin will "
+"approve or reject the booking manually in the admin panel."
+msgstr ""
+"- Dans ce mode, vos visiteurs pourront demander une réservation en cliquant "
+"sur le bouton et en remplissant leurs informations dans le formulaire de "
+"réservation. En tant qu'administrateur, vous acceptez ou refusez "
+"manuellement la réservation dans le panneau d'administration."
+
+#: views/bookings.html.php:55
+msgid "[next page]"
+msgstr "[page suivante]"
+
+#: views/bookings.html.php:52
+msgid "[previous page]"
+msgstr "[page précédente]"
+
+#: views/bookings.html.php:25 views/rooms.php:19
+msgid "Action"
+msgstr "Action"
+
+#: views/bookings.html.php:36 views/booking.html.php:27
+msgid "Active"
+msgstr "Actif"
+
+#: views/booking.html.php:2
+msgid "Add/Edit Reservation"
+msgstr "Ajouter/Modifier Réservation"
+
+#: views/sidebar.html.php:27
+msgid "Advanced shortcodes"
+msgstr "Raccourcis avancés"
+
+#: views/pay-paypal.html.php:2 views/booking.html.php:15
+msgid "Amount due:"
+msgstr "Montant du:"
+
+#: views/bookings.html.php:24
+msgid "Amount paid/due"
+msgstr "Montant payé / dû"
+
+#: views/booking.html.php:14
+msgid "Amount paid:"
+msgstr "Déjà réglé"
+
+#: views/sidebar.html.php:33
+msgid "And a lot more - just come to see!"
+msgstr "Et beaucoup plus - venez voir!"
+
+#: views/bookings.html.php:68 views/rooms.php:45 views/booking.html.php:49
+msgid "Are you sure?"
+msgstr "Êtes-vous sur?"
+
+#: views/list-rooms.html.php:2 views/booking-form.html.php:15
+msgid "Arriving:"
+msgstr "Arrivée:"
+
+#: views/email-log.html.php:12
+msgid "Automatically cleanup old logs after"
+msgstr "Nettoyer automatiquement les anciens log après"
+
+#: views/options.php:47
+msgid "Automatically cleanup unconfirmed (unpaid) bookings after"
+msgstr ""
+"Nettoyer automatiquement les réservations non confirmées (impayées) après"
+
+#: views/booking-form.html.php:2
+msgid "Back to the listing of rooms"
+msgstr "Retour à la liste des chambres"
+
+#: views/rooms.php:19 views/room.php:12 views/partial/rooms-table.html.php:3
+msgid "Bathroom"
+msgstr "Salle de bains"
+
+#: controllers/shortcodes.php:79 views/partial/rooms-table.html.php:8
+#: views/partial/rooms-table.html.php:29
+msgid "Book"
+msgstr "Réserver"
+
+#: views/rooms.php:19
+msgid "Book shortcode"
+msgstr "Raccourcis de réservation"
+
+#: views/ical.html.php:11 views/ical.html.php:12
+msgid "Booking"
+msgstr "Réservation"
+
+#: views/sidebar.html.php:28
+msgid "Booking availability calendars"
+msgstr "Calendriers de disponibilité de réservation"
+
+#: views/bookings.html.php:23
+msgid "Booking dates"
+msgstr "Dates de réservation"
+
+#: views/pay-paypal.html.php:8
+#, php-format
+msgid "Booking for %s Room / %d"
+msgstr "Réservation de %s Room / %d"
+
+#: views/pay-paypal.html.php:1
+msgid "Booking ID:"
+msgstr "ID de réservartion"
+
+#: views/options.php:18
+msgid "Booking mode:"
+msgstr "Mode de réservation"
+
+#: views/booking.html.php:26
+msgid "Booking status:"
+msgstr "Statut de réservation"
+
+#: views/bookings.html.php:13
+msgid "bookings"
+msgstr "Réservations"
+
+#: views/options.php:109
+msgid ""
+"By default this is only the blog administrator. Here you can enable any of "
+"the other roles as well"
+msgstr ""
+"Par défaut, il s'agit uniquement de l'administrateur du blog. Ici, vous "
+"pouvez également activer tous les autres rôles"
+
+#: views/bookings.html.php:38 views/booking.html.php:29
+msgid "Cancelled"
+msgstr "Annulé"
+
+#: views/unavailable-dates.html.php:16
+msgid "Change Dates"
+msgstr "Changer les dates"
+
+#: views/rooms.php:8
+msgid "Click here to add room"
+msgstr "Cliquez ici pour ajouter une chambre"
+
+#: views/bookings.html.php:14
+msgid "Click here to manually add a new booking"
+msgstr "Cliquer ici pour ajouter manuellement une nouvelle réservation"
+
+#: views/bookings.html.php:22
+msgid "Contact email"
+msgstr "Email de contact"
+
+#: views/booking-form.html.php:21 views/booking.html.php:17
+msgid "Contact email:"
+msgstr "Email de contact:"
+
+#: views/bookings.html.php:22
+msgid "Contact name"
+msgstr "Nom de contact"
+
+#: views/booking-form.html.php:20 views/booking.html.php:16
+msgid "Contact name:"
+msgstr "Nom de contact:"
+
+#: views/booking-form.html.php:22 views/booking.html.php:18
+msgid "Contact phone:"
+msgstr "Téléphone de contact:"
+
+#: views/booking-form.html.php:26 views/booking.html.php:22
+msgid "Couple"
+msgstr "Couple"
+
+#: views/room.php:1
+msgid "Create/Edit Hostel Room"
+msgstr "Créer/Modifier une chambre"
+
+#: views/options.php:97
+msgid "CSS Theme URL:"
+msgstr "URL du CSS du thème:"
+
+#: views/options.php:9
+msgid "Currency:"
+msgstr "Monnaie:"
+
+#: views/options.php:16
+msgid "Custom"
+msgstr "Personnaliser"
+
+#: views/sidebar.html.php:32
+msgid "Customizable form code"
+msgstr "Code de formulaire personnalisable"
+
+#: models/hostel.php:138
+msgid "Date of arrival cannot be after date of leave"
+msgstr "La date d'arrivée ne peut pas être après la date du départ"
+
+#: models/hostel.php:137
+msgid "Date of arrival cannot be in the past"
+msgstr "La date d'arrivée ne peut pas être antérieure"
+
+#: views/options.php:92
+msgid "Datepicker Localization and Theming"
+msgstr "Sélecteur de date Localisation et thème"
+
+#: views/options.php:51 views/email-log.html.php:12
+msgid "days"
+msgstr "Jours"
+
+#: views/rooms.php:28
+msgid "Delete"
+msgstr "Effacer"
+
+#: views/booking.html.php:36
+msgid "Delete booking"
+msgstr "Effacer la réservation"
+
+#: views/sidebar.html.php:29
+msgid "Discounts and surcharges"
+msgstr "Réductions et suppléments"
+
+#: views/help.html.php:19
+msgid ""
+"displays a generic booking form with a drop-down selector for choosing room, "
+"and a date selector. If you use the [wphostel-list] shortcode you most "
+"probably do not need this one because the booking form is automatically "
+"generated."
+msgstr ""
+"affiche un formulaire de réservation générique avec un sélecteur déroulant "
+"pour choisir la chambre et un sélecteur de date. Si vous utilisez le "
+"raccourcis [wphostel-list], vous n'avez probablement pas besoin de celui-ci "
+"car le formulaire de réservation est généré automatiquement."
+
+#: views/help.html.php:37
+msgid ""
+"Don't worry if you use modified WordPress directory structure and don't have "
+"'wp-content' folder. The trick will work with any structure as long as you "
+"follow the same logic."
+msgstr ""
+"Ne vous inquiétez pas si vous utilisez une structure de répertoire WordPress "
+"modifiée et que vous n'avez pas de dossier 'wp-content'. L'astuce "
+"fonctionnera avec n'importe quelle structure tant que vous suivez la même "
+"logique."
+
+#: views/room.php:9 models/room.php:93
+msgid "Dorm"
+msgstr "Dortoir"
+
+#: views/rooms.php:33
+msgid "Download file"
+msgstr "Téléverser le fichier"
+
+#: views/bookings.html.php:40 views/rooms.php:28
+msgid "Edit"
+msgstr "Éditer"
+
+#: views/options.php:66
+msgid "Email address to receive the notice:"
+msgstr "Adresse e-mail pour recevoir l'avis:"
+
+#: views/email-log.html.php:2 models/hostel.php:108 models/hostel.php:108
+msgid "Email Log"
+msgstr "Journal de messagerie"
+
+#: views/options.php:68 views/options.php:77
+msgid "Email message:"
+msgstr "Message email:"
+
+#: views/options.php:67 views/options.php:76
+msgid "Email subject:"
+msgstr "Sujet email"
+
+#: views/options.php:84
+msgid ""
+"Enable debug mode to see SQL errors. (Useful in case you have any problems)"
+msgstr ""
+"Activer le mode débogage pour voir les erreurs SQL. (Utile au cas où vous "
+"avez des problèmes)"
+
+#: views/room.php:13 models/room.php:99
+msgid "Ensuite"
+msgstr "Privée"
+
+#: views/booking-form.html.php:25 views/booking.html.php:21
+msgid "Female(s)"
+msgstr "Femme(s)"
+
+#: views/help.html.php:30
+msgid "For example:"
+msgstr "Par exemple:"
+
+#: views/room.php:6
+msgid "For management purposes"
+msgstr "À des fins de gestion"
+
+#: views/sidebar.html.php:26
+msgid "Free email support for 1 year after purchase"
+msgstr "Support par e-mail gratuit pendant 1 an après l'achat"
+
+#: views/unavailable-dates.html.php:11 views/booking.html.php:12
+msgid "From date:"
+msgstr "Depuis la date:"
+
+#: views/rooms.php:31
+msgid "Get link:"
+msgstr "Obtenir le lien"
+
+#: views/sidebar.html.php:23
+msgid "Get more powerful features by"
+msgstr "Obtenez des fonctionnalités plus puissantes en"
+
+#: views/booking.html.php:38
+msgid "Go Back"
+msgstr "Retour"
+
+#: views/sidebar.html.php:49
+msgid "Go PRO"
+msgstr "Version PRO"
+
+#: views/sidebar.html.php:21
+msgid "Go PRO!"
+msgstr "Version PRO!"
+
+#: views/options.php:52
+msgid "Guests can book rooms from:"
+msgstr "Les clients peuvent réserver des chambres à partir de:"
+
+#: models/hostel.php:109
+msgid "Help"
+msgstr "Aide"
+
+#: views/sidebar.html.php:42
+msgid "Help To Spread The Word!"
+msgstr "Aidez à répandre le mot!"
+
+#: views/options.php:95
+#, php-format
+msgid ""
+"Here you can specify localization and theme files for your datepicker. "
+"Please do read <a href=\"%s\" target=\"_blank\">this article</a> for more "
+"information."
+msgstr ""
+"Ici vous pouvez spécifier les fichiers de localisation et de thème pour "
+"votre sélecteur de date. Veuillez lire <a href=\"%s\" target=\"_blank\"> cet "
+"article </a> pour plus d'informations."
+
+#. Name of the plugin
+#: models/hostel.php:101
+msgid "Hostel"
+msgstr "Auberge"
+
+#. Description of the plugin
+msgid "Hostel / BnB management plugin"
+msgstr "Extension de gestion d'auberge"
+
+#: views/help.html.php:2
+msgid "Hostel for WordPress"
+msgstr "Hostel pour WordPress"
+
+#: views/options.php:2
+msgid "Hostel Options"
+msgstr "Options d'Hostel"
+
+#: views/options.php:47
+msgid "hours. (Leave blank for no automated cleanup.)"
+msgstr "heures. (Laissez vide pour aucun nettoyage automatisé.)"
+
+#. Author URI of the plugin
+msgid "http://kibokolabs.com"
+msgstr "http://kibokolabs.com"
+
+#. URI of the plugin
+msgid "http://wp-hostel.com"
+msgstr "http://wp-hostel.com"
+
+#: views/rooms.php:29
+msgid "iCalendar"
+msgstr "iCalendar"
+
+#: views/bookings.html.php:22
+msgid "ID"
+msgstr "ID"
+
+#: views/help.html.php:33
+msgid ""
+"If you are using the Twenty Fourteen theme, you should create folder "
+"\"wphostel\" under it so the structure will now be something like <b>wp-"
+"content/themes/twentyfourteen/wphostel</b>. (The files that are above the "
+"new \"wphostel\" folder should remain where they are)"
+msgstr ""
+"Si vous utilisez le thème Twenty Quator, vous devriez créer le dossier "
+"\"wphostel\" en-dessous, donc la structure sera maintenant quelque chose "
+"comme <b> wp-content / themes / twentyfourteen / wphostel </ b>. (Les "
+"fichiers situés au-dessus du nouveau dossier \"wphostel\" doivent rester là "
+"où ils sont)"
+
+#: views/sidebar.html.php:44
+msgid "If you like this plugin you can do some of the following:"
+msgstr "Si vous aimez ce plugin, vous pouvez faire ce qui suit:"
+
+#: views/help.html.php:22
+#, php-format
+msgid ""
+"If you want to translate this plugin check out <a href=\"%s\" "
+"target=\"_blank\">this guide</a>. Our plugin textdomain is \"wphostel\" and "
+"you have to place your .po and .mo files in folder languages/"
+msgstr ""
+"Si vous voulez traduire ce plugin, consultez <a href=\"%s\" "
+"target=\"_blank\"> ce guide </a>. Notre plugin textdomain est \"wphostel\" "
+"et vous devez placer vos fichiers .po et .mo dans les langues des dossiers /"
+
+#: views/room.php:21
+msgid "Import external calendar (optional):"
+msgstr "Importer le calendrier externe (facultatif):"
+
+#: views/options.php:60
+msgid "in the future"
+msgstr "dans le futur"
+
+#: controllers/bookings.php:273
+msgid ""
+"In your selection there are dates when the room is not available or there "
+"are not enough free beds. Please check your selection."
+msgstr ""
+"Dans votre sélection il y a des dates où la chambre n'est pas disponible ou "
+"il n'y a pas assez de lits libres. S'il vous plaît vérifier votre sélection."
+
+#: views/sidebar.html.php:36
+msgid "Just go ahead and"
+msgstr "Allez-y et"
+
+#. Author of the plugin
+msgid "Kiboko Labs"
+msgstr "Kiboko Labs"
+
+#: views/list-rooms.html.php:3 views/booking-form.html.php:17
+msgid "Leaving:"
+msgstr "Sortie:"
+
+#: views/sidebar.html.php:48
+msgid "Let others know about it by blogging or posting"
+msgstr "Faites savoir aux autres à ce sujet en bloguant ou en postant"
+
+#: views/options.php:56
+msgid "Limit bookings to"
+msgstr "Limiter les réservations à"
+
+#: views/options.php:96
+msgid "Localization  file URL:"
+msgstr "URL du fichier de localisation:"
+
+#: views/email-log.html.php:9
+msgid "Log date:"
+msgstr "Date du log:"
+
+#: views/booking-form.html.php:31
+msgid "Make Reservation"
+msgstr "Faire une réservation"
+
+#: views/unavailable-dates.html.php:19
+msgid "Make unavailable"
+msgstr "Rendre indisponible"
+
+#: views/booking-form.html.php:24 views/booking.html.php:20
+msgid "Male(s)"
+msgstr "Hommes(s)"
+
+#: views/sidebar.html.php:30
+msgid "Manage addon services"
+msgstr "Gérer les services de l'extension"
+
+#: models/hostel.php:106
+msgid "Manage Bookings"
+msgstr "Gérer les réservations"
+
+#: views/bookings.html.php:6
+msgid "Manage Bookings / Reservations"
+msgstr "Gérer les réservations"
+
+#: views/rooms.php:5 models/hostel.php:105 models/hostel.php:105
+msgid "Manage Rooms"
+msgstr "Gérer les chambres"
+
+#: views/unavailable-dates.html.php:2
+msgid "Manage Unavailable Dates"
+msgstr "Gérer les dates indisponibles"
+
+#: views/options.php:20
+msgid "Manual / No Payment"
+msgstr "Manuel / Pas de paiement"
+
+#: views/bookings.html.php:42
+msgid "Mark as paid"
+msgstr "Marquer comme payé"
+
+#: views/list-rooms.html.php:29
+#, php-format
+msgid "Minimum stay of %d days is required"
+msgstr "Un séjour minimum de %d jours est requis"
+
+#: controllers/bookings.php:259
+#, php-format
+msgid "Minimum stay of %d days is required."
+msgstr "Un séjour minimum de %d jours est requis."
+
+#: views/booking-form.html.php:27 views/booking.html.php:23
+msgid "Mixed"
+msgstr "Mixte"
+
+#: views/options.php:58
+msgid "months"
+msgstr "mois"
+
+#: views/sidebar.html.php:54
+msgid "Need Support?"
+msgstr "Besoin d'assistance?"
+
+#: views/options.php:53
+msgid "Next day"
+msgstr "Jour suivant"
+
+#: views/options.php:19 views/options.php:24
+msgid "No booking"
+msgstr "Pas de réservation"
+
+#: views/email-log.html.php:16
+msgid "No emails have been sent on the selected date."
+msgstr "Aucun e-mail n'a été envoyé à la date sélectionnée."
+
+#: views/booking-form.html.php:14 views/booking.html.php:11
+msgid "No. beds to book:"
+msgstr "Nbre de lits à réserver:"
+
+#: views/partial/rooms-table.html.php:31
+msgid "Not available"
+msgstr "Pas disponible"
+
+#: views/unavailable-dates.html.php:6
+msgid ""
+"Note that for simplicity bookings made will not be reflected here. Making "
+"dates available does not mean there are no already made reservations for it."
+msgstr ""
+"Notez que pour des raisons de simplicité, les réservations effectuées ne "
+"seront pas reflétées ici. Rendre les dates disponibles ne signifie pas qu'il "
+"n'y a pas de réservations déjà faites pour cela."
+
+#: views/options.php:38
+msgid ""
+"Note: Paypal IPN will not work if your site is behind a \"htaccess\" login "
+"box or running on localhost. Your site must be accessible from the internet "
+"for the IPN to work. In cases when IPN cannot work you need to use Paypal "
+"PDT."
+msgstr ""
+"Note: Paypal IPN ne fonctionnera pas si votre site est derrière une boîte de "
+"connexion \"htaccess\" ou fonctionne sur localhost. Votre site doit être "
+"accessible depuis Internet pour que l'IPN fonctionne. Dans les cas où IPN ne "
+"peut pas fonctionner, vous devez utiliser Paypal PDT."
+
+#: views/rooms.php:18
+msgid "Num beds"
+msgstr "Nbre de lits"
+
+#: views/room.php:11
+msgid "Number of beds"
+msgstr "Nombre de lits"
+
+#: views/sidebar.html.php:48
+msgid "on social networks."
+msgstr "sur les réseaux sociaux."
+
+#: controllers/shortcodes.php:11 controllers/ajax.php:15
+msgid "Online booking is not enabled."
+msgstr "La réservation en ligne n'est pas activée."
+
+#: views/sidebar.html.php:36
+msgid "online demo."
+msgstr "démo en ligne."
+
+#: views/help.html.php:26
+msgid "Only for advanced users!"
+msgstr "Seulement pour les utilisateurs avancés!"
+
+#: views/sidebar.html.php:36
+msgid "or check the"
+msgstr "ou vérifiez le"
+
+#: views/sidebar.html.php:48
+msgid "our home page"
+msgstr "notre page d'accueil"
+
+#: views/unavailable-dates.html.php:21
+msgid "Partially overlapping<br>unavailable periods"
+msgstr "Chevauchement partiel <br>des périodes d'indisponibilité"
+
+#: views/bookings.html.php:12
+msgid "Past"
+msgstr "Passé"
+
+#: views/options.php:21
+msgid "Paypal"
+msgstr "Paypal"
+
+#: views/options.php:43
+msgid "Paypal PDT Token:"
+msgstr "Jeton PDT Paypal:"
+
+#: views/bookings.html.php:37
+msgid "Pending"
+msgstr "en attendant"
+
+#: views/booking.html.php:28
+msgid "Pending (not confirmed)"
+msgstr "En attente (non confirmé)"
+
+#: views/room.php:18 models/room.php:107
+msgid "Per night for the whole room"
+msgstr "Par nuit pour toute la chambre"
+
+#: views/room.php:17 models/room.php:106
+msgid "Per person per night"
+msgstr "Par personne et par nuit"
+
+#: views/sidebar.html.php:56
+msgid "Please ask your question in the"
+msgstr "S'il vous plaît poser votre question dans le"
+
+#: models/hostel.php:135
+msgid "Please enter arrival date"
+msgstr "Veuillez entrer la date d'arrivée"
+
+#: models/hostel.php:136
+msgid "Please enter date of leaving"
+msgstr "S'il vous plaît entrer la date de départ"
+
+#: models/hostel.php:133
+msgid "Please enter email address!"
+msgstr "S'il vous plaît entrer l'adresse e-mail!"
+
+#: models/hostel.php:132
+msgid "Please enter name!"
+msgstr "S'il vous plaît entrer le nom!"
+
+#: views/room.php:37
+msgid "Please enter number of beds in the room. Use only numbers."
+msgstr ""
+"Veuillez entrer le nombre de lits dans la chambre. Utilisez uniquement des "
+"chiffres."
+
+#: models/hostel.php:134
+msgid "Please enter number of beds, numbers only"
+msgstr "Veuillez entrer le nombre de lits, chiffres seulement"
+
+#: views/room.php:43
+msgid "Please enter room price, numbers only"
+msgstr "Veuillez entrer le prix de la chambre, chiffres seulement"
+
+#: views/room.php:31
+msgid ""
+"Please enter room title. This is important so you can recognize the room "
+"when editing it and when viewing its bookings"
+msgstr ""
+"Veuillez entrer le titre de la chambre. Ceci est important pour que vous "
+"puissiez reconnaître la chambre lors de l'édition et lors de la "
+"visualisation de ses réservations"
+
+#: views/list-rooms.html.php:23
+#, php-format
+msgid "Please select up to %d days interval."
+msgstr "Veuillez sélectionner jusqu'à %d jours d'intervalle."
+
+#: views/list-rooms.html.php:33
+msgid "Please wait..."
+msgstr "Patience..."
+
+#: views/sidebar.html.php:26
+msgid "Premium support"
+msgstr "Assistance Premium"
+
+#: views/rooms.php:19
+msgid "Price"
+msgstr "Prix"
+
+#: views/partial/rooms-table.html.php:8
+msgid "Price per person"
+msgstr "Prix par personne"
+
+#: views/room.php:16
+msgid "Price:"
+msgstr "Prix:"
+
+#: views/room.php:8 models/room.php:92
+msgid "Private"
+msgstr "Privé"
+
+#: views/sidebar.html.php:47
+msgid "Rate it 5 starts at Wordpress.org"
+msgstr "Notez le 5 étoiles à Wordpress.org"
+
+#: views/email-log.html.php:19
+msgid "Receiver"
+msgstr "Destinataire"
+
+#: views/help.html.php:24
+msgid "Redesigning and Customizing the Views / Templates"
+msgstr "Refonte et personnalisation des vues / modèles"
+
+#: views/sidebar.html.php:31
+msgid "Reports and charts"
+msgstr "Rapports et graphiques"
+
+#: views/options.php:51
+msgid "Require minimum stay of:"
+msgstr "Exiger un séjour minimum de:"
+
+#: views/email-log.html.php:20
+msgid "Response from the mailing server"
+msgstr "Réponse du serveur mailing"
+
+#: views/options.php:104
+msgid "Role Management"
+msgstr "Gestion des rôles"
+
+#: controllers/rooms.php:12
+msgid "Room added."
+msgstr "Chambre ajoutée."
+
+#: controllers/rooms.php:37
+msgid "Room deleted."
+msgstr "Chambre effacée."
+
+#: views/room.php:20
+msgid "Room description (optional):"
+msgstr "Description de la chambre (facultatif):"
+
+#: controllers/rooms.php:24
+msgid "Room details saved."
+msgstr "Détails de la chambre enregistrés."
+
+#: views/rooms.php:18
+msgid "Room title"
+msgstr "Titre de la chambre"
+
+#: views/room.php:5
+msgid "Room title*"
+msgstr "Titre de la chambre."
+
+#: views/unavailable-dates.html.php:19 views/rooms.php:18 views/room.php:7
+#: views/partial/rooms-table.html.php:3
+msgid "Room type"
+msgstr "Type de chambre"
+
+#: views/bookings.html.php:22
+msgid "Room/beds"
+msgstr "Chambre/lits"
+
+#: views/options.php:54
+msgid "Same day"
+msgstr "Même jour"
+
+#: views/options.php:98
+msgid "Save Datepicker Settings"
+msgstr "Enregistrer les paramètres du sélecteur de date"
+
+#: views/options.php:86
+msgid "Save Options"
+msgstr "Enregistrer les Options"
+
+#: views/booking.html.php:34
+msgid "Save Reservation"
+msgstr "Enregistrer la réservation"
+
+#: views/options.php:116
+msgid "Save Role Management Settings"
+msgstr "Enregistrer les paramètres de gestion des rôles"
+
+#: views/room.php:22
+msgid "Save room details"
+msgstr "Enregistrer les détails de la chambre"
+
+#: views/unavailable-dates.html.php:41
+msgid "Save Unavailable Rooms"
+msgstr "Enregistrer les chambres indisponibles"
+
+#: views/booking-form.html.php:7 views/booking.html.php:6
+msgid "Select room:"
+msgstr "Choisir une chambre"
+
+#: views/options.php:72
+msgid "Send confirmation email to user when booking is made"
+msgstr ""
+"Envoyer un e-mail de confirmation à l'utilisateur lors de la réservation"
+
+#: views/bookings.html.php:44
+msgid "Send emails when marking paid."
+msgstr "Envoyer des e-mails après l'enregistrement du paiement."
+
+#: views/options.php:63
+msgid ""
+"Send me email with booking details when someone makes or requests a booking"
+msgstr ""
+"Envoyez-moi un email avec les détails de la réservation quand quelqu'un fait "
+"ou demande une réservation"
+
+#: views/email-log.html.php:19
+msgid "Sender"
+msgstr "Expéditeur"
+
+#: views/email-log.html.php:12
+msgid "Set Cleanup"
+msgstr "Définir le nettoyage"
+
+#: views/help.html.php:14
+msgid ""
+"Set to 1 if you want the availability checking form to be displayed "
+"horizontally. Defaults to 0 (vertical form)."
+msgstr ""
+"Définissez sur 1 si vous souhaitez que le formulaire de vérification de "
+"disponibilité soit affiché horizontalement. Par défaut à 0 (forme verticale)."
+
+#: models/hostel.php:103
+msgid "Settings"
+msgstr "Paramètres"
+
+#: views/room.php:14 models/room.php:100
+msgid "Shared"
+msgstr "Partagé"
+
+#: views/help.html.php:15
+msgid "Show / hide room titles. Defaults to 0."
+msgstr "Afficher / masquer les titres des chambres. Par défaut à 0."
+
+#: views/help.html.php:13
+msgid ""
+"Show / hide the table initially when loading the page (it will always be "
+"shown after clicking the availability button). Defaults to 1."
+msgstr ""
+"Afficher / masquer le tableau initialement lors du chargement de la page (il "
+"sera toujours affiché après avoir cliqué sur le bouton de disponibilité). "
+"Par défaut à 1."
+
+#: views/list-rooms.html.php:4
+msgid "Show availability"
+msgstr "Afficher la disponibilité"
+
+#: views/email-log.html.php:10
+msgid "Show log"
+msgstr "Afficher le log"
+
+#: views/bookings.html.php:10
+msgid "Showing"
+msgstr "Montrer"
+
+#: views/help.html.php:16
+msgid ""
+"Specify the maximum interval of days that can be selected from the calendars."
+" For example [wphostel-list max_days=10] will allow interval of 10 days. "
+"Default is 5."
+msgstr ""
+"Indiquez l'intervalle maximal de jours pouvant être sélectionné dans les "
+"calendriers. Par exemple [wphostel-list max_days = 10] permettra un "
+"intervalle de 10 jours. La valeur par défaut est 5."
+
+#: views/bookings.html.php:25
+msgid "Status"
+msgstr "Status"
+
+#: views/email-log.html.php:20
+msgid "Subject"
+msgstr "Sujet"
+
+#: views/sidebar.html.php:36
+msgid "take the tour"
+msgstr "faire le tour"
+
+#: controllers/bookings.php:285
+msgid ""
+"Thank you for your reservation request. We will get back to you when it is "
+"confirmed"
+msgstr ""
+"Merci pour votre demande de réservation. Nous reviendrons vers vous quand "
+"elle sera confirmée"
+
+#: views/unavailable-dates.html.php:8
+msgid ""
+"The table below will show a room as unavailable only if unavailability is "
+"set exactly for the selected period or is unavailable in a longer period "
+"that fully includes the selected one. Any partially overlapping period will "
+"be shown in additional column. There is no problem to overlap unavailable "
+"periods."
+msgstr ""
+"Le tableau ci-dessous indique qu'une pièce est indisponible uniquement si "
+"l'indisponibilité est définie exactement pour la période sélectionnée ou si "
+"elle est indisponible pendant une période plus longue qui inclut entièrement "
+"la sélection sélectionnée. Toute période se chevauchant partiellement sera "
+"affichée dans une colonne supplémentaire. Il n'y a pas de problème pour "
+"chevaucher les périodes indisponibles."
+
+#: views/help.html.php:39
+msgid ""
+"Then feel free to modify the code, but of course be careful not to mess with "
+"the PHP or Javascript inside. This will let you change the design and even "
+"part of the functionality and not lose these changes when the plugin is "
+"upgraded. Be careful: we can not provide support for your custom versions of "
+"our views."
+msgstr ""
+"Alors n'hésitez pas à modifier le code, mais bien sur faites attention à ne "
+"pas vous tromper avec le PHP ou le Javascript à l'intérieur. Cela vous "
+"permettra de modifier la conception et même une partie de la fonctionnalité "
+"et de ne pas perdre ces modifications lorsque le plugin est mis à niveau. "
+"Attention: nous ne pouvons pas prendre en charge vos versions personnalisées "
+"de nos vues."
+
+#: views/help.html.php:34
+msgid ""
+"Then if you want to modify the \"Manage Rooms\" page copy the file rooms.php "
+"from the plugin \"views\" folder and place it in the new \"wphostel\" folder "
+"so you will have  <b>wp-content/themes/twentyfourteen/wphostel/rooms.php</b>"
+msgstr ""
+"Ensuite, si vous voulez modifier la page \"Gérer les chambres\", copiez le "
+"fichier rooms.php du dossier \"views\" du plugin et placez-le dans le "
+"nouveau dossier \"wphostel\" pour avoir <b> wp-content / themes / "
+"twentyfourteen / wphostel / rooms.php </ b>"
+
+#: views/bookings.html.php:17
+msgid "There are no bookings to show at the moment."
+msgstr "Il n'y a pas de réservations à afficher pour le moment."
+
+#: views/help.html.php:7
+msgid ""
+"This is a plugin for managing hostels, BNB sites, and small hotel sites. You "
+"get an area where to manage your available rooms and prices, and the "
+"bookings made by visitors. Start with the main settings page to set up your "
+"booking mode, currency etc. Then once you enter your property and room "
+"details, you can use the following shortcodes:"
+msgstr ""
+"Ceci est un plugin pour gérer les auberges, les sites BNB, et les petits "
+"sites d'hôtels. Vous obtenez une zone où gérer vos chambres disponibles et "
+"les prix, et les réservations effectuées par les visiteurs. Commencez par la "
+"page des paramètres principaux pour configurer votre mode de réservation, "
+"votre devise, etc. Puis, une fois que vous avez saisi les détails de votre "
+"propriété et de votre chambre, vous pouvez utiliser les codes courts "
+"suivants:"
+
+#: controllers/bookings.php:264
+#, php-format
+msgid "This is a private room. You have to book all the %d beds"
+msgstr "Ceci est une salle privée. Vous devez réserver tous les lits %d"
+
+#: views/email-log.html.php:5
+msgid ""
+"This page shows what booking notification emails have been sent on each date."
+" The last column will show the message status, i.e. response from the "
+"mailing server. If emails are not delivered or you see errors there you "
+"should contact your hosting support."
+msgstr ""
+"Cette page indique quels e-mails de notification de réservation ont été "
+"envoyés à chaque date. La dernière colonne affichera l'état du message, "
+"c'est-à-dire la réponse du serveur de messagerie. Si les e-mails ne sont pas "
+"livrés ou si vous y voyez des erreurs, vous devez contacter votre service "
+"d'hébergement."
+
+#: views/options.php:3 views/help.html.php:4
+#, php-format
+msgid ""
+"This plugin is a light version of <a href=\"%s\" target=\"_blank\">Hostel "
+"PRO</a>"
+msgstr ""
+"Ce plugin est une version allégée de <a href=\"%s\" target=\"_blank\"> "
+"Hostel PRO </a>"
+
+#: views/help.html.php:11
+msgid ""
+"This shorcode accepts arguments which allow you to specify whether room "
+"title should be shown in the table and the maxinimum days allowed for "
+"seletion. The argument can be set to 0 (means \"do not show\") and 1 (means "
+"\"show\"):"
+msgstr ""
+"Ce raccourcis accepte les arguments qui vous permettent de spécifier si le "
+"titre de la pièce doit être affiché dans la table et si les jours maximums "
+"peuvent être sélectionnés. L'argument peut être mis à 0 (signifie \"ne pas "
+"afficher\") et 1 (signifie \"show\"):"
+
+#: views/email-log.html.php:19
+msgid "Time"
+msgstr "Temps"
+
+#: views/unavailable-dates.html.php:12 views/booking.html.php:13
+msgid "To date:"
+msgstr "À ce jour:"
+
+#: views/sidebar.html.php:49
+msgid "to empower your site with extra benefits"
+msgstr "pour donner à votre site des avantages supplémentaires"
+
+#: models/hostel.php:107
+msgid "Unavailable Dates"
+msgstr "Dates indisponibles"
+
+#: views/ical.html.php:11 views/ical.html.php:12
+msgid "Unavailable dates"
+msgstr "Dates indisponibles"
+
+#: views/bookings.html.php:11
+msgid "Upcoming"
+msgstr "Prochain"
+
+#: views/sidebar.html.php:38
+msgid ""
+"Upgrading to PRO comes with 60 days refund policy, one year free upgrades "
+"and one year free support."
+msgstr ""
+"La mise à niveau vers Hostel PRO est assortie d'une politique de "
+"remboursement de 60 jours, d'une mise à niveau gratuite d'un an et d'une "
+"assistance gratuite d'un an."
+
+#: views/sidebar.html.php:23
+msgid "upgrading to the PRO version:"
+msgstr "mise à niveau vers la version PRO:"
+
+#: views/room.php:21
+msgid "URLs of iCal / ics files, one per line"
+msgstr "URL des fichiers iCal / ics, un par ligne"
+
+#: views/options.php:40
+#, php-format
+msgid ""
+"Use Paypal PDT instead of IPN (<a href=\"%s\" target=\"_blank\">Why and "
+"how</a>)"
+msgstr ""
+"Utilisez Paypal PDT au lieu de IPN (<a href=\"%s\" target=\"_blank\"> "
+"Pourquoi et comment </a>)"
+
+#: views/unavailable-dates.html.php:4
+msgid ""
+"Use this page to set up dates when specific rooms can not be booked. This "
+"might be due to your scheduled maintenance, holiday, or any other date when "
+"your property will not be working, or just a specific room will not be "
+"available."
+msgstr ""
+"Utilisez cette page pour définir des dates lorsque des salles spécifiques ne "
+"peuvent pas être réservées. Cela peut être dû à votre entretien programmé, à "
+"vos vacances ou à toute autre date à laquelle votre propriété ne "
+"fonctionnera pas, ou juste une pièce spécifique ne sera pas disponible."
+
+#: views/options.php:32
+msgid "View payments errorlog"
+msgstr "Afficher le journal des erreurs de paiement"
+
+#: views/booking.html.php:19
+msgid "Visitors type:"
+msgstr "Type de visiteurs"
+
+#: views/rooms.php:40
+msgid ""
+"When you place the booking shortcode a \"Book\" button will be automatically "
+"generated. Use it on a page where you have manually described your room with "
+"pictures etc. You can pass custom button text as second argument to the "
+"shortcode - like this:"
+msgstr ""
+"Lorsque vous placez le raccourcis de réservation, un bouton \"Réserver\" "
+"sera généré automatiquement. Utilisez-le sur une page où vous avez décrit "
+"manuellement votre pièce avec des images, etc. Vous pouvez passer le texte "
+"du bouton personnalisé comme deuxième argument du raccourcis - comme ceci:"
+
+#: views/help.html.php:10
+msgid ""
+"will display a table with your available rooms. A date selector on the top "
+"lets the user choose dates of their visit and then the rooms list is updated."
+" If you have enabled booking in your Hostel settings page, the table will "
+"also show \"Book\" button when appropriate. The button will automaically "
+"load the booking form"
+msgstr ""
+"affichera un tableau avec vos chambres disponibles. Un sélecteur de date sur "
+"le dessus permet à l'utilisateur de choisir les dates de sa visite, puis la "
+"liste des chambres est mise à jour. Si vous avez activé la réservation dans "
+"la page des paramètres de votre auberge, le tableau affiche également le "
+"bouton \"Réserver\" lorsque cela est approprié. Le bouton chargera "
+"automatiquement le formulaire de réservation"
+
+#: views/options.php:107
+msgid "Wordpress roles that can administrate the plugin"
+msgstr "Les rôles Wordpress qui peuvent administrer le plugin"
+
+#: views/options.php:59
+msgid "years"
+msgstr "années"
+
+#: views/booking-form.html.php:23
+msgid "You are:"
+msgstr "Vous êtes:"
+
+#: views/unavailable-dates.html.php:38
+msgid ""
+"You can click on any of the \"Partially overlapping unavailable periods\" to "
+"quickly reset the date slection to that period."
+msgstr ""
+"Vous pouvez cliquer sur l'un des \"Périodes d'indisponibilité partiellement "
+"chevauchantes\" pour réinitialiser rapidement la section de date à cette "
+"période."
+
+#: views/help.html.php:28
+msgid ""
+"You can safely customize all files from the \"views\" folders by placing "
+"their copies in your theme folder. Simply create folder \"wphostel\" <b>in "
+"your theme root folder</b> and copy the files you want to custom from "
+"\"views\" folder directly there."
+msgstr ""
+"Vous pouvez en toute sécurité personnaliser tous les fichiers à partir des "
+"dossiers \"vues\" en plaçant leurs copies dans votre dossier de thème. Créez "
+"simplement le dossier \"wphostel\" <b> dans votre dossier racine de thème </ "
+"b> et copiez directement les fichiers que vous souhaitez personnaliser "
+"depuis le dossier \"views\"."
+
+#: views/options.php:69 views/options.php:78
+msgid "You can use the following variables:"
+msgstr "Vous pouvez utiliser les variables suivantes:"
+
+#: views/rooms.php:11
+msgid "You have not added any rooms yet."
+msgstr "Vous n'avez encore ajouté aucune pièce."
+
+#: views/options.php:122
+#, php-format
+msgid ""
+"Your feedback is most welcome! Please <a href=\"%s\" target=\"_blank\">let "
+"us know</a> what features and improvements you would like to see in the "
+"plugin."
+msgstr ""
+"Vos commentaires sont les bienvenus! S'il vous plaît <a href=\"%s\" "
+"target=\"_blank\"> dites-nous </a> quelles sont les fonctionnalités et les "
+"améliorations que vous aimeriez voir dans le plugin."
+
+#: views/options.php:37
+msgid "Your Paypal Email:"
+msgstr "Votre Email Paypal:"
